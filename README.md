@@ -6,9 +6,9 @@ MadLibs program
 2. Run this using the command:      java Madlib.java x      where x the index of the madlib
 
 - Underscore codes:
-    _V = Verb
-    _N = Noun
-    _n = Number
-    _A = Adjective
-    _a = Adverb
-    _P = Plural noun
+- _V = Verb
+- _N = Noun
+- _n = Number
+- _A = Adjective
+- _a = Adverb
+- _P = Plural noun
